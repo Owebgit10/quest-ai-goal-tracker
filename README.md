@@ -46,11 +46,24 @@ Client (Android) → Firebase Cloud Functions → OpenAI API → Firebase Realti
 - All AI requests handled server-side  
 - Input validation and structured response handling  
 
-## Screenshots
-(Add images here)
 
-- Goal creation & AI planning  
-- Chatbot interaction  
-- Goal tracking dashboard  
-- Communities & discovery  
-- Community chat  
+
+## Screenshots
+
+### Goal Creation
+![Goal Creation](Create goal .png)
+
+### AI Chatbot
+![Chatbot](Ai ChatBot.png)
+
+### Goal Stats
+![Stats](Goal Stats.png)
+
+### All Goals
+![All Goals](All Goals.png)
+
+### Join Community
+![Join Community](Join Community .png)
+
+### Community Chat
+![Chat Room](Chat Room.png)
