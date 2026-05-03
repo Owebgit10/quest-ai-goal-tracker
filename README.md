@@ -1,6 +1,6 @@
 # Quest — AI Goal Tracking App
 
-🔗 **Repository:** https://github.com/yourusername/quest-ai-goal-tracker
+🔗 **Repository:** https://github.com/Owebgit10/quest-ai-goal-tracker
 
 ## Overview
 AI-powered Android application that converts natural language goals into structured, actionable task plans using LLM-driven workflows.  
