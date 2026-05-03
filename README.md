@@ -63,7 +63,7 @@ Client (Android) → Firebase Cloud Functions → OpenAI API → Firebase Realti
 ![All Goals](All-Goals.png)
 
 ### Join Community
-![Join Community](JoinCommunity.png)
+![Join Community](Join-Community.png)
 
 ### Community Chat
 ![Chat Room](Chat-Room.png)
