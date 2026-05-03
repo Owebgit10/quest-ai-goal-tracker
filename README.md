@@ -50,14 +50,14 @@ Client (Android) → Firebase Cloud Functions → OpenAI API → Firebase Realti
 
 ## Screenshots
 
-### Goal Creation
-![Goal Creation](Create-goal.png)
-
 ### AI Chatbot
-![Chatbot](Ai-ChatBot.png)
+![AI Chatbot](Ai-ChatBot.png)
+
+### Create Goal
+![Create Goal](Create-goal.png)
 
 ### Goal Stats
-![Stats](Goal-Stats.png)
+![Goal Stats](Goal-Stats.png)
 
 ### All Goals
 ![All Goals](All-Goals.png)
@@ -65,5 +65,8 @@ Client (Android) → Firebase Cloud Functions → OpenAI API → Firebase Realti
 ### Join Community
 ![Join Community](Join-Community.png)
 
-### Community Chat
+### Search Communities
+![Search Communities](Search-Communities.png)
+
+### Chat Room
 ![Chat Room](Chat-Room.png)
