@@ -70,3 +70,10 @@ Client (Android) → Firebase Cloud Functions → OpenAI API → Firebase Realti
 
 ### Chat Room
 ![Chat Room](Chat-Room.png)
+
+
+ ## What I Learned
+- Designing secure backend systems using Firebase Cloud Functions
+- Handling API calls server-side to protect sensitive keys
+- Structuring LLM outputs into usable application workflows
+- Building real-time features with Firebase Realtime Database
